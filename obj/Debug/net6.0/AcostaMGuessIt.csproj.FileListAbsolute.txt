@@ -1,0 +1,15 @@
+/Users/bernardo/Documents/RealCodeStack/AcostaMGuessIt/bin/Debug/net6.0/AcostaMGuessIt
+/Users/bernardo/Documents/RealCodeStack/AcostaMGuessIt/bin/Debug/net6.0/AcostaMGuessIt.deps.json
+/Users/bernardo/Documents/RealCodeStack/AcostaMGuessIt/bin/Debug/net6.0/AcostaMGuessIt.runtimeconfig.json
+/Users/bernardo/Documents/RealCodeStack/AcostaMGuessIt/bin/Debug/net6.0/AcostaMGuessIt.dll
+/Users/bernardo/Documents/RealCodeStack/AcostaMGuessIt/bin/Debug/net6.0/AcostaMGuessIt.pdb
+/Users/bernardo/Documents/RealCodeStack/AcostaMGuessIt/obj/Debug/net6.0/AcostaMGuessIt.csproj.AssemblyReference.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMGuessIt/obj/Debug/net6.0/AcostaMGuessIt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bernardo/Documents/RealCodeStack/AcostaMGuessIt/obj/Debug/net6.0/AcostaMGuessIt.AssemblyInfoInputs.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMGuessIt/obj/Debug/net6.0/AcostaMGuessIt.AssemblyInfo.cs
+/Users/bernardo/Documents/RealCodeStack/AcostaMGuessIt/obj/Debug/net6.0/AcostaMGuessIt.csproj.CoreCompileInputs.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMGuessIt/obj/Debug/net6.0/AcostaMGuessIt.dll
+/Users/bernardo/Documents/RealCodeStack/AcostaMGuessIt/obj/Debug/net6.0/refint/AcostaMGuessIt.dll
+/Users/bernardo/Documents/RealCodeStack/AcostaMGuessIt/obj/Debug/net6.0/AcostaMGuessIt.pdb
+/Users/bernardo/Documents/RealCodeStack/AcostaMGuessIt/obj/Debug/net6.0/AcostaMGuessIt.genruntimeconfig.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMGuessIt/obj/Debug/net6.0/ref/AcostaMGuessIt.dll
